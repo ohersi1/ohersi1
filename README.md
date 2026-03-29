@@ -2,9 +2,12 @@
 
 I'm Osman, A developer based in Birmingham, UK. 
 
-I build with React and JavaScript across the entire stack. From pixel-perfect UIs to robust backend systems. 
+I build with React and JavaScript across the entire stack. From pixel-perfect UIs to robust full-stack systems systems. 
 
 My projects range from beautifully designed websites to production-ready applications, proving I can own a product from concept to deployment. I'm driven by one thing: shipping software that solves real problems.
+
+Some stuff I built:
+
 <!--
 **ohersi1/ohersi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
