@@ -8,8 +8,9 @@ My projects range from beautifully designed websites to production-ready applica
 
 Some stuff I built:
 
-* [**Desserts menu with cart**](http://github.com/ohersi1/Products-with-cart?tab=readme-ov-file) - A responsive dessert menu application built with React with modern CSS (Grid and Flexbox).
+* [**Desserts menu with cart**](http://github.com/ohersi1/Products-with-cart) - A responsive dessert menu application built with React with modern CSS (Grid and Flexbox).
 
+* [**Gazetteer App**](https://github.com/ohersi1/osmanHersi/tree/main/project1) - Gazetteer is a web application designed to deliver dynamic country-based insights using geolocation and user selection. It aggregates information from multiple APIs to present a centralized view of essential data about a selected country.
 
  <!--
 **ohersi1/ohersi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
