@@ -12,6 +12,8 @@ Some stuff I built:
 
 * [**Gazetteer App**](https://github.com/ohersi1/osmanHersi/tree/main/project1) - Gazetteer is a web application designed to deliver dynamic country-based insights using geolocation and user selection. It aggregates information from multiple APIs to present a centralized view of essential data about a selected country.
 
+* [**Company Directory**](http://github.com/ohersi1/osmanHersi/tree/main/project2) - Company directory is a responsive web application for managing and browsing company personnel. Built with PHP and MySQL and styled using Bootstrap with JavaScript for interactivity, the app provides a clean and efficient way to view, search, and filter staff across departments and office locations.
+
  <!--
 **ohersi1/ohersi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
