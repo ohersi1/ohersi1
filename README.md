@@ -8,7 +8,10 @@ My projects range from beautifully designed websites to production-ready applica
 
 Some stuff I built:
 
-<!--
+* **Desserts menu with cart** -  A responsive dessert menu application built with React with cart functionality and a confirmation modal.
+
+
+ <!--
 **ohersi1/ohersi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
