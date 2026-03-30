@@ -8,7 +8,7 @@ My projects range from beautifully designed websites to production-ready applica
 
 Some stuff I built:
 
-* **Desserts menu with cart** -  A responsive dessert menu application built with React with cart functionality and a confirmation modal.
+* [**Desserts menu with cart**](http://github.com/ohersi1/Products-with-cart?tab=readme-ov-file) - A responsive dessert menu application built with React with modern CSS (Grid and Flexbox).
 
 
  <!--
