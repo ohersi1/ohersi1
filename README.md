@@ -13,7 +13,7 @@ Some stuff I built:
 * [**Gazetteer App**](http://gazetteer.osmanhersi.co.uk/) (private repo) - Gazetteer is a web application designed to deliver dynamic country-based insights using geolocation and user selection. It aggregates information from multiple APIs to present a centralized view of essential data about a selected country.
 
 * [**Company Directory**](http://directory.osmanhersi.co.uk/) (private repo) - Company directory is a responsive web application for managing and browsing company personnel. Built with PHP and MySQL and styled using Bootstrap with JavaScript for interactivity, the app provides a clean and efficient way to view, search, and filter staff across departments and office locations.
-* 
+
 * [**PollyGlot**](https://github.com/ohersi1/PollyGlot-AI-Translator) - PollyGlot is an AI-powered translation app that translates user-provided text into one of three preset languages: French, Spanish, or Japanese. The project is being built as the final challenge from the Intro to AI Engineering chapter on Scrimba, applying concepts including AI API integration, prompting, system and user roles, and securely handling API requests.
 
  <!--
